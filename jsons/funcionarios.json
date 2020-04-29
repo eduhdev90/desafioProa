@@ -1,0 +1,19 @@
+{
+    "funcionarios":[
+       {
+        "nome": "Stan Lee",
+        "salario": 13000,
+        "funcao": "Criar homeme aranha"
+       },
+       {
+        "nome": "Rebert Richards",
+        "salario": 3000,
+        "funcao": "VIrar meme"
+       }, 
+       {
+        "nome": "Rogério Ceni",
+        "salario": 8000,
+        "funcao": "Goleiro artilheiro"
+       }
+    ]
+}

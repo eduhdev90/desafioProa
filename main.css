@@ -1,0 +1,8 @@
+/*2 Criar o HTML/CSS responsivo com base no layout navegável. */
+ul{
+    list-style: none;
+}
+.ficha ul li span {
+    min-width: 120px;
+    font-weight: bold;
+}
